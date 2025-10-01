@@ -1,4 +1,5 @@
 # GUI Parking Spot System  
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/6e13c898-7641-4072-9018-8ae1a547e771" />
 
 ## Project Overview  
 This project implements a Java-based **Parking Spot System with a Graphical User Interface (GUI)**. The system allows users to manage staff and visitor parking slots through an interactive interface built with Swing and AWT.  
